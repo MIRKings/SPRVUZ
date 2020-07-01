@@ -1,0 +1,13 @@
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\bin\Debug\SPRVUZ.exe.config
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\bin\Debug\SPRVUZ.exe
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\bin\Debug\SPRVUZ.pdb
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.csprojAssemblyReference.cache
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.Main.resources
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.Properties.Resources.resources
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.VUZ.resources
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.csproj.GenerateResource.cache
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.csproj.CoreCompileInputs.cache
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.exe
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.pdb
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.SAVE.resources
+C:\Users\gusei\source\repos\SPRVUZ\SPRVUZ\obj\Debug\SPRVUZ.CITY.resources
